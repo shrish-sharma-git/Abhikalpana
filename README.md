@@ -1,5 +1,7 @@
 # Abhikalpana
 ## SANITISATION FACILITY
+![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ### CADAction Model
 ##### Jaypee University of Engineering & Technology
 
@@ -24,7 +26,7 @@ from the mains.
 #### Model Created and Developed by Team Abhikalpana
 ###### [Spandan Saxena](https://github.com/the-rebooted-coder)
 ###### [Shrish Sharma](https://github.com/shrish-sharma-git)
-###### Shubham Kumar Munjani
-###### Lokesh Pandey
-###### Kamesh Parashar
+###### [Shubham Kumar Munjani](https://github.com/munjanishubham)
+###### [Lokesh Pandey](https://github.com/Lokithegreat)
+###### [Kamesh Parashar](https://github.com/xKameshx)
 ###### Ganesh Adavkar
